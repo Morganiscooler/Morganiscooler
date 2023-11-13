@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to use C# to program in WPF and Unity Engine
 - 💞️ I’m looking to collaborate on video game/software related projects!
 - 📫 How to reach me:
-  +👉 Discord: morganiscooler
+  👉 Discord: morganiscooler
  
 
 <!---
